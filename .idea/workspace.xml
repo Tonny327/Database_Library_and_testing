@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="992b2854-35be-4930-b711-16786b7a13b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Library_TZ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/main.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/warn-main.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/main/xref-main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/library.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/library.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2gp7yLvpv7Li5LnRs7pgMmtzIGo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_database.test_book_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_database.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_library.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_models.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_database.test_book_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_database.test_borrowed_book_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_database.test_create_connection.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_database.test_create_database.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_database.test_create_duplicate_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_database.test_nonexistent_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_database.test_return_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_database.test_user_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_add_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_book_exists.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_book_exists_nonexistent.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_borrow_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_borrow_book_due_dates.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_borrow_book_with_due_date.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_close_connection.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_delete_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_delete_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_get_borrowed_books_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_late_return_penalty.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_on_time_return_no_penalty.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_register_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_reputation_decrease_late_return.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_reputation_increase_on_time_return.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_reputation_limits.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_return_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_return_book_invalid_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_return_book_invalid_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_return_book_on_time.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_return_book_penalty_and_reputation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_return_book_success.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_return_book_with_penalty.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_return_nonexistent_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_search_books.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_search_books_by_isbn.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_search_users.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_set_return_date.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_update_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_update_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_user_borrowing_limits_and_due_dates.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_user_exists.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_view_book_and_book_exists.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_view_book_nonexistent.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_view_borrowed_books.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_library.test_view_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_add_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_add_book_and_view_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_add_book_option.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_borrow_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_delete_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_delete_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_main_menu.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_menu_choice_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_print_menu.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_register_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_return_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_search_books.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_search_users.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_update_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_update_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_view_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_view_borrowed_books.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_main.test_view_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_database.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_library.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_main.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_models.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.database.executor&quot;: &quot;Run&quot;,
+    &quot;Python.library (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.models.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_models.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Library_TZ&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Library_TZ" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="library" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Library_TZ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Library_TZ\library.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Library_TZ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_library.test_borrow_book" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Library_TZ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_library.test_borrow_book&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_library.test_search_books_by_isbn" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Library_TZ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_library.test_search_books_by_isbn&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_database.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Library_TZ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_database.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_library.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Library_TZ" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_library.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.pytest in test_library.py" />
+        <item itemvalue="Python tests.pytest in test_database.py" />
+        <item itemvalue="Python tests.pytest for test_library.test_borrow_book" />
+        <item itemvalue="Python tests.pytest for test_library.test_search_books_by_isbn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="992b2854-35be-4930-b711-16786b7a13b2" name="Changes" comment="" />
+      <created>1716382918910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716382918910</updated>
+    </task>
+    <servers />
+  </component>
+</project>
